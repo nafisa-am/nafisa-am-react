@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%7Bnafisa-am-react%7D/static/css/main.4a1722b1.css",
-    "main.js": "/%7Bnafisa-am-react%7D/static/js/main.cfd89b0d.js",
-    "static/js/787.5468a307.chunk.js": "/%7Bnafisa-am-react%7D/static/js/787.5468a307.chunk.js",
-    "static/media/empTracker.png": "/%7Bnafisa-am-react%7D/static/media/empTracker.80d933cb50d840406638.png",
-    "static/media/scaCarRental.png": "/%7Bnafisa-am-react%7D/static/media/scaCarRental.1cb18b996092659f14c8.png",
-    "static/media/lyricFinder.png": "/%7Bnafisa-am-react%7D/static/media/lyricFinder.b933f8b82988bb86fb77.png",
-    "static/media/designTeam.png": "/%7Bnafisa-am-react%7D/static/media/designTeam.5c28d9ee7f8db9579bae.png",
-    "static/media/pwa19.png": "/%7Bnafisa-am-react%7D/static/media/pwa19.1ff3ab6424c7b651bbbe.png",
-    "static/media/codeQuiz.png": "/%7Bnafisa-am-react%7D/static/media/codeQuiz.6b8bfcf05332177d1b04.png",
-    "static/media/N_Mohamed.pdf": "/%7Bnafisa-am-react%7D/static/media/N_Mohamed.47e839998783b6ff190f.pdf",
-    "static/media/Profile_Pic.png": "/%7Bnafisa-am-react%7D/static/media/Profile_Pic.d46fad622b43d64a4e07.png",
-    "static/media/cover.jpg": "/%7Bnafisa-am-react%7D/static/media/cover.3c9cbd2f2315f6132961.jpg",
-    "index.html": "/%7Bnafisa-am-react%7D/index.html",
-    "main.4a1722b1.css.map": "/%7Bnafisa-am-react%7D/static/css/main.4a1722b1.css.map",
-    "main.cfd89b0d.js.map": "/%7Bnafisa-am-react%7D/static/js/main.cfd89b0d.js.map",
-    "787.5468a307.chunk.js.map": "/%7Bnafisa-am-react%7D/static/js/787.5468a307.chunk.js.map"
+    "main.css": "/nafisa-am-react/static/css/main.6ccee712.css",
+    "main.js": "/nafisa-am-react/static/js/main.545aee35.js",
+    "static/js/787.5468a307.chunk.js": "/nafisa-am-react/static/js/787.5468a307.chunk.js",
+    "static/media/empTracker.png": "/nafisa-am-react/static/media/empTracker.80d933cb50d840406638.png",
+    "static/media/scaCarRental.png": "/nafisa-am-react/static/media/scaCarRental.1cb18b996092659f14c8.png",
+    "static/media/lyricFinder.png": "/nafisa-am-react/static/media/lyricFinder.b933f8b82988bb86fb77.png",
+    "static/media/designTeam.png": "/nafisa-am-react/static/media/designTeam.5c28d9ee7f8db9579bae.png",
+    "static/media/pwa19.png": "/nafisa-am-react/static/media/pwa19.1ff3ab6424c7b651bbbe.png",
+    "static/media/codeQuiz.png": "/nafisa-am-react/static/media/codeQuiz.6b8bfcf05332177d1b04.png",
+    "static/media/N_Mohamed.pdf": "/nafisa-am-react/static/media/N_Mohamed.47e839998783b6ff190f.pdf",
+    "static/media/Profile_Pic.png": "/nafisa-am-react/static/media/Profile_Pic.d46fad622b43d64a4e07.png",
+    "static/media/cover.jpg": "/nafisa-am-react/static/media/cover.3c9cbd2f2315f6132961.jpg",
+    "index.html": "/nafisa-am-react/index.html",
+    "main.6ccee712.css.map": "/nafisa-am-react/static/css/main.6ccee712.css.map",
+    "main.545aee35.js.map": "/nafisa-am-react/static/js/main.545aee35.js.map",
+    "787.5468a307.chunk.js.map": "/nafisa-am-react/static/js/787.5468a307.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a1722b1.css",
-    "static/js/main.cfd89b0d.js"
+    "static/css/main.6ccee712.css",
+    "static/js/main.545aee35.js"
   ]
 }
