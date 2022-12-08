@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nafisa-am-react/static/css/main.6ccee712.css",
+    "main.css": "/nafisa-am-react/static/css/main.0737631e.css",
     "main.js": "/nafisa-am-react/static/js/main.545aee35.js",
     "static/js/787.5468a307.chunk.js": "/nafisa-am-react/static/js/787.5468a307.chunk.js",
     "static/media/empTracker.png": "/nafisa-am-react/static/media/empTracker.80d933cb50d840406638.png",
@@ -13,12 +13,12 @@
     "static/media/Profile_Pic.png": "/nafisa-am-react/static/media/Profile_Pic.d46fad622b43d64a4e07.png",
     "static/media/cover.jpg": "/nafisa-am-react/static/media/cover.3c9cbd2f2315f6132961.jpg",
     "index.html": "/nafisa-am-react/index.html",
-    "main.6ccee712.css.map": "/nafisa-am-react/static/css/main.6ccee712.css.map",
+    "main.0737631e.css.map": "/nafisa-am-react/static/css/main.0737631e.css.map",
     "main.545aee35.js.map": "/nafisa-am-react/static/js/main.545aee35.js.map",
     "787.5468a307.chunk.js.map": "/nafisa-am-react/static/js/787.5468a307.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ccee712.css",
+    "static/css/main.0737631e.css",
     "static/js/main.545aee35.js"
   ]
 }
