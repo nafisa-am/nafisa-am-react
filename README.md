@@ -4,6 +4,8 @@
 
 This is a REACT portfolio that uses the latest technologies.
 
+
+
 ## Table of Contents
 
 - [Description](#description)
@@ -13,6 +15,9 @@ This is a REACT portfolio that uses the latest technologies.
 - [Links](#links)
 - [Questions](#questions)
 
+
+
+
 ### User Story
 
 ```md
@@ -20,6 +25,8 @@ AS AN employer looking for candidates with experience building single-page appli
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position.
 ```
+
+
 
 ### Installation
 
@@ -31,9 +38,13 @@ Steps to follow for installation:
 
 - Then `nmp run start` to start the server.
 
+
+
 ### Screenshot
 
 <img width="1440" alt="Screenshot 2022-12-08 at 23 25 12" src="https://user-images.githubusercontent.com/108237958/206588073-5d67c4aa-00eb-4170-a878-13e0a370ca4d.png">
+
+
 
 
 ### Links
@@ -41,6 +52,7 @@ Steps to follow for installation:
 Deployed link - https://nafisa-am.github.io/nafisa-am-react/
 
 GitHub repo - https://github.com/nafisa-am/nafisa-am-react
+
 
 ### Questions
 
