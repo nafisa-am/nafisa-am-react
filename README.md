@@ -31,13 +31,15 @@ Steps to follow for installation:
 
 - Then `nmp run start` to start the server.
 
-### Screenshots
+### Screenshot
+
+<img width="1440" alt="Screenshot 2022-12-08 at 23 16 11" src="https://user-images.githubusercontent.com/108237958/206587836-ca405f64-7f8b-48c0-962a-42fdc02b6724.png">
 
 ### Links
 
-Deployed link -
+Deployed link - https://nafisa-am.github.io/nafisa-am-react/
 
-GitHub repo - https://github.com/nafisa-am/.
+GitHub repo - https://github.com/nafisa-am/nafisa-am-react
 
 ### Questions
 
