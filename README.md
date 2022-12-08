@@ -33,7 +33,8 @@ Steps to follow for installation:
 
 ### Screenshot
 
-<img width="1440" alt="Screenshot 2022-12-08 at 23 16 11" src="https://user-images.githubusercontent.com/108237958/206587836-ca405f64-7f8b-48c0-962a-42fdc02b6724.png">
+<img width="1440" alt="Screenshot 2022-12-08 at 23 25 12" src="https://user-images.githubusercontent.com/108237958/206588073-5d67c4aa-00eb-4170-a878-13e0a370ca4d.png">
+
 
 ### Links
 
