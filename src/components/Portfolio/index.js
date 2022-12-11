@@ -1,11 +1,11 @@
 import React from "react";
 
-import codeQuizImage from "../../assets/small/CodeQuiz.png";
-import lyricFinderImage from "../../assets/small/LyricFinder.png";
+import codeQuizImage from "../../assets/small/codeQuiz.png";
+import lyricFinderImage from "../../assets/small/lyricFinder.png";
 import designImage from "../../assets/small/designTeam.png";
 import empTrackerImage from "../../assets/small/empTracker.png";
 import scaCarRentalImage from "../../assets/small/scaCarRental.png";
-import pwa19Image from "../../assets/small/Pwa19.png";
+import pwa19Image from "../../assets/small/pwa19.png";
 import ProjectCard from "../ProjectCard";
 
 function Portfolio() {
